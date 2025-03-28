@@ -68,7 +68,7 @@
           .col-lg-auto
             img(src="@/assets/componentes/1.svg", style="max-width: 90px").mx-auto
           .col-lg
-            p En este sistema, la acción de propulsión hace que los candados se bloqueen automáticamente al eje en contra de la maza de la rueda, permitiendo que la tracción se active de manera automática..
+            p En este sistema, la acción de propulsión hace que los candados se bloqueen automáticamente al eje en contra de la maza de la rueda, permitiendo que la tracción se active de manera automática.
         figure
           img(src="@/assets/curso/temas/tema2/5.png", data-aos="zoom-in")
       .col-lg-6

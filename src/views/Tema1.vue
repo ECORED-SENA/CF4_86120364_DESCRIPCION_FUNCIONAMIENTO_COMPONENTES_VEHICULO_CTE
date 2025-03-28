@@ -35,7 +35,7 @@
         figure
           img(src="@/assets/curso/temas/tema1/3.png", data-aos="zoom-in")
       .col-lg-8
-        p(data-aos="fade-left") Cuando la fuerza motriz del vehículo se transmite a las ruedas delanteras, los semiejes son los encargados de llevar la energía desde el diferencial hasta las mazas de las ruedas, permitiendo su movimiento. En la figura se presenta cómo los semiejes se conectan al sistema diferencial y, en este caso particular, incluyen juntas homocinéticas. Debido a que estas ruedas deben girar en curvas, los ejes están asentados en rodamientos y se mantienen solidarios a las mazas para garantizar la transmisión de la tracción. En este ejemplo, el vehículo cuenta con tracción delantera, lo que significa que sus ruedas delanteras son, al mismo tiempo, motrices y directrices
+        p(data-aos="fade-left") Cuando la fuerza motriz del vehículo se transmite a las ruedas delanteras, los semiejes son los encargados de llevar la energía desde el diferencial hasta las mazas de las ruedas, permitiendo su movimiento. En la figura se presenta cómo los semiejes se conectan al sistema diferencial y, en este caso particular, incluyen juntas homocinéticas. Debido a que estas ruedas deben girar en curvas, los ejes están asentados en rodamientos y se mantienen solidarios a las mazas para garantizar la transmisión de la tracción. En este ejemplo, el vehículo cuenta con tracción delantera, lo que significa que sus ruedas delanteras son, al mismo tiempo, motrices y directrices.
     
         .row.justify-content-center.align-items-center.mb-5.bg-color-1.tarjeta
           .col-lg-8.py-4
@@ -95,7 +95,7 @@
               figure
                 img(src='@/assets/componentes/1.svg', alt='Texto que describa la imagen')
 
-          p.text-center Mayor precisión en la transmisión del movimiento
+          p.text-center Mayor precisión en la transmisión del movimiento.
 
       .col-sm-6.col-lg-4.mb-4.mb-lg-0
         //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
@@ -107,7 +107,7 @@
               figure
                 img(src='@/assets/componentes/1.svg', alt='Texto que describa la imagen')
 
-          p.text-center Mejor ajuste en el ensamblaje del sistema de tracción
+          p.text-center Mejor ajuste en el ensamblaje del sistema de tracción.
 
       .col-sm-6.col-lg-4.mb-4.mb-sm-0
         //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
@@ -168,12 +168,12 @@
         img.titulo-con-imagen__imagen(src="@/assets/componentes/2.svg")
         h3.titulo-con-imagen__texto Puntas de ejes posteriores para tracción delantera
 
-    p.m-4 En los vehículos con tracción delantera, las ruedas traseras, al no recibir propulsión, deben girar libremente sobre su punta de eje y los rodamientos que soportan la maza de las ruedas  
+    p.m-4 En los vehículos con tracción delantera, las ruedas traseras, al no recibir propulsión, deben girar libremente sobre su punta de eje y los rodamientos que soportan la maza de las ruedas.
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-6.mb-3.mb-lg-0
         div.bg-color-6.tarjeta.p-5
-          p.mb-0 Dado que las ruedas traseras no requieren curva, su soporte se logra insertando la punta de eje en los brazos de la suspensión. En este caso, la punta de eje suele contar con dos rodamientos cónicos, los cuales, con el ajuste adecuado de la tuerca y su seguro, mantienen la alineación precisa de los rodamientos. Esto permite que la maza gire sin juego y sobre su propio eje.
+          p.mb-0 Dado que las ruedas traseras no requieren curva, su soporte se logra insertando la punta del eje en los brazos de la suspensión. En este caso, la punta de eje suele contar con dos rodamientos cónicos, los cuales, con el ajuste adecuado de la tuerca y su seguro, mantienen la alineación precisa de los rodamientos. Esto permite que la maza gire sin juego y sobre su propio eje.
       .col-lg-6
         .titulo-sexto.color-acento-contenido
           h5 Figura 6.
@@ -296,7 +296,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/22.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 En los vehículos modernos con tracción trasera o en las cuatro ruedas, se deben considerar los sensores de velocidad para los sistemas de frenos ABS y control de tracción. Un ajuste inadecuado de los semiejes o las mazas puede generar holgura en las ruedas fónicas o dentadas, afectando la señal del sensor de velocidad y comprometiendo la seguridad del vehículo y sus ocupantes
+        p.mb-0 En los vehículos modernos con tracción trasera o en las cuatro ruedas, se deben considerar los sensores de velocidad para los sistemas de frenos ABS y control de tracción. Un ajuste inadecuado de los semiejes o las mazas puede generar holgura en las ruedas fónicas o dentadas, afectando la señal del sensor de velocidad y comprometiendo la seguridad del vehículo y sus ocupantes.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo

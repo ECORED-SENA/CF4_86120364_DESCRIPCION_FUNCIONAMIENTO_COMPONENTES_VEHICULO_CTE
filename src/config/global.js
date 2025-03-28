@@ -127,52 +127,52 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Actuador neumático:',
+      termino: 'Actuador neumático',
       significado:
         'mecanismo que utiliza aire comprimido para accionar o desactivar componentes del sistema de tracción.',
     },
     {
-      termino: 'Caja de transferencia:',
+      termino: 'Caja de transferencia',
       significado:
         'mecanismo que distribuye la tracción entre los ejes delantero y trasero.',
     },
     {
-      termino: 'Electroválvula:',
+      termino: 'Electroválvula',
       significado:
         'dispositivo que controla el paso de fluidos mediante una señal eléctrica en sistemas de tracción.',
     },
     {
-      termino: 'Juntas homocinéticas:',
+      termino: 'Juntas homocinéticas',
       significado:
         'conectores flexibles que permiten transmitir potencia a las ruedas con diferentes ángulos de giro.',
     },
     {
-      termino: 'Puntas de eje:',
+      termino: 'Puntas de eje',
       significado:
         'extremos de los ejes que conectan las ruedas con el sistema de transmisión.',
     },
     {
-      termino: 'Rodamientos:',
+      termino: 'Rodamientos',
       significado:
         'elementos mecánicos que reducen la fricción y facilitan el movimiento del eje.',
     },
     {
-      termino: 'Semieje de propulsión:',
+      termino: 'Semieje de propulsión',
       significado:
         'componente que lleva la fuerza del diferencial a las ruedas y permite su giro.',
     },
     {
-      termino: 'Sistema de bloqueo:',
+      termino: 'Sistema de bloqueo',
       significado:
         'mecanismo que permite fijar o liberar la tracción en las ruedas según la necesidad.',
     },
     {
-      termino: 'Tracción en las ruedas:',
+      termino: 'Tracción en las ruedas',
       significado:
         'capacidad del vehículo para recibir potencia del motor en un eje o en ambos.',
     },
     {
-      termino: 'Transmisión de fuerza motriz:',
+      termino: 'Transmisión de fuerza motriz',
       significado:
         'sistema que transfiere la energía del motor a las ruedas para su movimiento.',
     },
@@ -195,7 +195,7 @@ export default {
         },
         {
           nombre: 'Olga Constanza Bermudez Jaimes',
-          cargo: 'Responsable de Línea de Producción Huila',
+          cargo: 'Responsable de Línea de Producción',
           centro: 'Dirección General',
         },
       ],
