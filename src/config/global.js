@@ -179,7 +179,7 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'ls1tech. (2004). Thread Starter. ',
+      referencia: 'ls1tech. (2004). <em>Thread Starter</em>. ',
       link:
         'https://ls1tech.com/forums/advanced-engineering-tech/1000478-lets-build-mid-engine-trans-am-need-advice-10.html ',
     },
@@ -194,7 +194,7 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Olga Constanza Bermudez Jaimes',
+          nombre: 'Olga Constanza Bermúdez Jaimes',
           cargo: 'Responsable de Línea de Producción',
           centro: 'Dirección General',
         },

@@ -119,7 +119,7 @@
               figure
                 img(src='@/assets/componentes/1.svg', alt='Texto que describa la imagen')
 
-          p.text-center Mayor capacidad de carga, Adaptándose a diferentes Exigencias mecánica.
+          p.text-center Mayor capacidad de carga, adaptándose a diferentes exigencias mecánicas.
 
     div.text-center.bg-color.tarjeta.p-2.mb-5
       p.mb-0 Esta elección dependerá de las necesidades específicas del vehículo y del desempeño requerido en sus ruedas motrices.
@@ -191,12 +191,12 @@
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-6.mb-3.mb-lg-0
         div.bg-color-7.p-5.mb-3
-          p.mb-0 Cuando un vehículo está diseñado con tracción trasera, las ruedas delanteras giran únicamente sobre su propio eje, cumpliendo la función de dirección. En este caso, las puntas de eje incorporan un sistema de doble rodamiento cónico, que, al ser ajustado dentro de la maza, permite su giro con la tolerancia exacta. Esta configuración evita holguras excesivas y garantiza un deslizamiento adecuado de los rodamientos durante su funcionamiento.
+          p.mb-0 Cuando un vehículo está diseñado con tracción trasera, las ruedas delanteras giran únicamente sobre su propio eje, cumpliendo la función de dirección. En este caso, las puntas de eje incorporan un sistema de doble rodamiento cónico que, al ser ajustado dentro de la maza, permite su giro con la tolerancia exacta. Esta configuración evita holguras excesivas y garantiza un deslizamiento adecuado de los rodamientos durante su funcionamiento.
         .row.align-items-start
           .col-lg-auto.order-1.order-lg-2
             img(src="@/assets/curso/temas/tema1/13.svg", style="max-width: 90px").mx-auto
           .col-lg.order-2.order-lg-1
-            p.mb-0 Estos rodamientos están alojados en la manzana de la rueda, la misma que debe alojar al disco o al tambor de freno, sus espárragos o pernos podrán sujetar a la rueda contra ella de forma fija.
+            p.mb-0 Estos rodamientos están alojados en la manzana de la rueda, la misma que debe alojar al disco o al tambor de freno; sus espárragos o pernos podrán sujetar a la rueda contra ella de forma fija.
       .col-lg-6
         .titulo-sexto.color-acento-contenido
           h5 Figura 7.
