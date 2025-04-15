@@ -146,7 +146,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/componentes/2.svg")
         h3.titulo-con-imagen__texto Semiejes delanteros
     
-    p.mb-4 El sistema de suspensión emplea barras de torsión en lugar de los sistemas tradicionales de muelles, ballestas o el sistema MacPherson, que son los más utilizados en vehículos modernos.
+    p.mb-4 El sistema de suspensión emplea barras de torsión en lugar de los sistemas tradicionales de muelles, ballestas o el sistema <i>MacPherson</i>, que son los más utilizados en vehículos modernos.
 
     .bg_img
       .row.mb-5.justify-content-center

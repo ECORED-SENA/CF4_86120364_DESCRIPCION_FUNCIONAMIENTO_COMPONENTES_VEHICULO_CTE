@@ -15,7 +15,7 @@
           .col-lg
             p Los ejes de propulsión mencionados hasta ahora han estado conectados de forma permanente para transmitir potencia a las ruedas de un vehículo. Sin embargo, existen sistemas de acoplamiento que pueden ser controlados mecánica o electrohidráulicamente, permitiendo que la tracción en el eje delantero o trasero se active según las necesidades del vehículo.
         div.bg-color.p-5
-          p.mb-0.p-5 Un sistema de embragues controlados por una electroválvula (solenoide) regula la presión hidráulica generada por una bomba de presión. Esta presión acciona uno o varios pistones que comprimen los embragues, logrando que el eje de propulsión de entrada se conecte con el eje de salida. De este modo, la tracción hacia el diferencial se ajusta mediante un control computarizado, activando las ruedas motrices cuando es necesario.
+          p.mb-0.p-5 Un sistema de embragues controlados por una electroválvula (<i>solenoide</i>) regula la presión hidráulica generada por una bomba de presión. Esta presión acciona uno o varios pistones que comprimen los embragues, logrando que el eje de propulsión de entrada se conecte con el eje de salida. De este modo, la tracción hacia el diferencial se ajusta mediante un control computarizado, activando las ruedas motrices cuando es necesario.
 
 
       .col-lg-4
