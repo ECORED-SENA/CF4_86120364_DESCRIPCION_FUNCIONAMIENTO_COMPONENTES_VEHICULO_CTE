@@ -31,7 +31,7 @@
         h3.titulo-con-imagen__texto Semiejes de propulsión
 
     .row.mb-5
-      .col-lg-4.mb-3.mb-lg-0
+      .col-lg-4.mb-3.mb-lg-0.d-none.d-lg-block
         figure
           img(src="@/assets/curso/temas/tema1/3.png", data-aos="zoom-in")
       .col-lg-8
@@ -45,7 +45,7 @@
         
             figure
               img(src="@/assets/curso/temas/tema1/4.png", data-aos="zoom-in", alt="Sistema diferencial con semiejes y apoyos estructurales.")
-            figcaption.mt-2.text-center.mb-4 Not. ls1tech. (2004)
+            figcaption.mt-2.mb-4 Not. ls1tech. (2004)
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -57,9 +57,9 @@
     p.mb-4 Las características principales de los rodamientos para tracción delantera son:
     
     .row.mb-5
-      .col-lg-3(data-aos="fade-right")
+      .col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
         figure
-          img(src="@/assets/curso/temas/tema1/5.png", data-aos="zoom-in")
+          img(src="@/assets/curso/temas/tema1/5.png", data-aos="zoom-in", style="max-width: 300px").mx-auto
       .col-lg-9(data-aos="fade-left")
         AcordionA.mb-5(tipo="a" clase-tarjeta="bg-color-2 tarjeta")
           div(titulo="Paso del eje de propulsión")
@@ -80,11 +80,11 @@
           span Esquema de un semieje y su rodamiento de bolas
     
         figure
-          img(src="@/assets/curso/temas/tema1/6.png", data-aos="zoom-in", alt="Diagrama técnico que ilustra la conexión entre el semieje y el rodamiento.")
+          img(src="@/assets/curso/temas/tema1/6.png", data-aos="zoom-in", alt="Diagrama técnico que ilustra la conexión entre el semieje y el rodamiento.", style="max-width: 460px").mx-auto
     
     p El sistema de rodamientos de doble bola, dependiendo del diseño y la carga que deben soportar, puede ser reemplazado por otros tipos de rodamientos que ofrezcan:
       
-    .row.mb-5
+    .row.justify-content-center.mb-5
       .col-sm-6.col-lg-4.mb-4.mb-lg-0
         //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
         //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
@@ -153,7 +153,7 @@
         .col-lg-5.mb-3.mb-lg-0
           p.mb-3 En algunos casos, se incorpora un sistema de soporte con rodamiento en el eje de mayor longitud, especialmente cuando la caja de cambios y el diferencial están más cerca de una de las ruedas. En este contexto, el semieje izquierdo es más corto, mientras que el semieje derecho, al ser más largo, requiere un soporte adicional entre el diferencial y la rueda más alejada para garantizar estabilidad y funcionamiento adecuado.
           figure
-            img(src="@/assets/curso/temas/tema1/9.png", data-aos="zoom-in")
+            img(src="@/assets/curso/temas/tema1/9.png", data-aos="zoom-in", style="max-width: 460px").mx-auto
         .col-lg-5
           .titulo-sexto.color-acento-contenido
             h5 Figura 5.
@@ -212,12 +212,12 @@
           .titulo-con-imagen__fondo
             img.titulo-con-imagen__imagen(src="@/assets/componentes/2.svg")
             h3.titulo-con-imagen__texto Puntas de eje delanteras dentro de la suspensión
-        p.mb-5 Las puntas de eje de las ruedas delanteras soportan la maza, los tambores o discos de freno y alojan las ruedas directrices del vehículo. En algunos casos, estas puntas de eje, representadas en color azul, están unidas a los amortiguadores delanteros, lo que permite que, al girar, dirijan las ruedas hacia la izquierda o la derecha según la necesidad de conducción.
+        p.mb-4 Las puntas de eje de las ruedas delanteras soportan la maza, los tambores o discos de freno y alojan las ruedas directrices del vehículo. En algunos casos, estas puntas de eje, representadas en color azul, están unidas a los amortiguadores delanteros, lo que permite que, al girar, dirijan las ruedas hacia la izquierda o la derecha según la necesidad de conducción.
 
         .row.justify-content-center.align-items-center
           .col-lg-5.mb-3.mb-lg-0
             figure
-              img(src="@/assets/curso/temas/tema1/14.png", data-aos="zoom-in")
+              img(src="@/assets/curso/temas/tema1/14.png", data-aos="zoom-in", style="max-width: 500px").mx-auto
           .col-lg-5
             .titulo-sexto.color-acento-contenido
               h5 Figura 8.
@@ -256,14 +256,14 @@
         h3.titulo-con-imagen__texto Ajuste de las puntas de eje
     
     .bg-full-width.bg-fondo-2
-      .p-5
+      .px-5
         p.mb-5 El ajuste de los rodamientos cónicos debe seguir las recomendaciones del fabricante. Sin embargo, existe un procedimiento común para garantizar un montaje adecuado:
         .bg-full-width.bg-fondo-5
           .px-4.px-md-5.pb-md-3
             .row.justify-content-center.mb-5.align-items-center
-              .col-lg-8.mb-3.mb-lg-0.order-2
+              .col-lg-8.order-2
         
-                SlyderF(columnas="col-12 col-lg-6")
+                SlyderF(columnas="col-12 col-md-6")
                   .bg-color-white.p-4.h-100.shadow-app
                     img(src='@/assets/curso/temas/tema1/19.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                     h4.text-center.mb-4 Ajuste de la tuerca de castillo
@@ -280,9 +280,9 @@
                     img(src='@/assets/curso/temas/tema1/20.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                     h4.text-center.mb-4 Asentamiento de piezas
                     p.text-center Doblar cuidadosamente las puntas del pasador, aplicar un poco de grasa extra e instalar la tapa protectora asegurando que quede bien ajustada.
-              .col-lg-4.order-1
+              .col-lg-4.order-1.mb-3.mb-lg-0
                 figure
-                  img(src='@/assets/curso/temas/tema1/18.png', alt='')
+                  img(src='@/assets/curso/temas/tema1/18.png', alt='', style="max-width: 300px").mx-auto
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -304,24 +304,24 @@
         h3.titulo-con-imagen__texto Rodamientos utilizados
     
     .bg-full-width.bg-fondo-2
-      .p-5
+      .px-5
         .bg-full-width.bg-fondo-5
           .px-4.px-md-5.pb-md-3
             .row.justify-content-center.mb-5.align-items-center
               .col-lg-6.mb-3.mb-lg-0
                 p Cada fabricante selecciona el tipo de rodamiento más adecuado para las puntas de eje de sus vehículos, considerando el diseño y la función de las ruedas, ya sea para tracción o giro libre.
                 p Algunos fabricantes pueden optar por rodamientos de agujas o de palillos, aunque este diseño no suele ser el más apropiado debido a las cargas y esfuerzos a los que está sometida esta parte del vehículo. También se podría utilizar un rodamiento de rodillos cilíndricos, aunque este tipo suele reservarse para otras aplicaciones.
-                .row.justify-content-center.align-items-center
+                .row.justify-content-center.align-items-center.d-none.d-lg-block
                   .col-lg-10
                     figure
-                      img(src='@/assets/curso/temas/tema1/23.png', alt='')
+                      img(src='@/assets/curso/temas/tema1/23.png', alt='', style="max-width: 470px").mx-auto
               .col-lg-5
                 figure.mb-3
-                  img(src='@/assets/curso/temas/tema1/24.png', alt='')
+                  img(src='@/assets/curso/temas/tema1/24.png', alt='', style="max-width: 500px").mx-auto
                 .titulo-sexto.color-acento-contenido
                   h5 Figura 10.
                   span Sistema de freno trasero con tambor y sensor ABS
-                .row.justify-content-center.align-items-center.mb-5
+                .row.justify-content-center.align-items-center
                   .col-lg-12.py-4
                     figure
                       img(src="@/assets/curso/temas/tema1/25.png", data-aos="zoom-in", alt="Rodamiento de rodillos cónicos, mostrando sus componentes como pistas interna y externa, retenedor y rodillos.")
@@ -332,7 +332,7 @@
       .col-lg
         p.mb-0 Los rodamientos más comúnmente utilizados y adecuados para soportar el peso, las cargas laterales y garantizar un buen rodaje de las ruedas son los rodamientos de bolas y los rodamientos cónicos.
     
-    .row.mb-5.justify-content-center
+    .row.justify-content-center
       .col-lg-6
         .titulo-sexto.color-acento-contenido
           h5 Figura 11.
@@ -350,9 +350,9 @@
     p.mb-5 Existen varios tipos de rodamientos diseñados para trabajar con un eje, y cada fabricante selecciona el más adecuado según las características de las ruedas con tracción y las que giran libremente. El análisis de los esfuerzos que debe soportar cada componente es clave para elegir el rodamiento más apropiado, garantizando su correcto funcionamiento dentro del mecanismo en el que será instalado.
 
     .row.justify-content-center.align-items-center
-      .col-lg-5.mb-3.mb-lg-0
+      .col-lg-5.mb-4.mb-lg-0
         figure
-          img(src="@/assets/curso/temas/tema1/27.png", data-aos="zoom-in")
+          img(src="@/assets/curso/temas/tema1/27.png", data-aos="zoom-in", style="max-width: 500px").mx-auto
       .col-lg-7
         .titulo-sexto.color-acento-contenido
           h5 Figura 12.

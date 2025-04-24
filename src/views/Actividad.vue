@@ -22,6 +22,8 @@ export default {
       introduccion:
         'Identificar la transmisión de la fuerza motriz, el funcionamiento de los semiejes, rodamientos, puntas de eje y sistemas de tracción, asegurando la comprensión de los mecanismos de acoplamiento y bloqueo.',
       barajarPreguntas: true,
+      titulo_aprobado: '¡BUEN TRABAJO!..',
+      titulo_reprobado: 'VUELVA A INTENTARLO..',
       preguntas: [
         {
           id: 1,

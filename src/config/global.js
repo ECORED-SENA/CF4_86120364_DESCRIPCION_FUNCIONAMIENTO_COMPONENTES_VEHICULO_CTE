@@ -96,7 +96,7 @@ export default {
     {
       tema: 'Transmisión de la fuerza motriz hasta las ruedas',
       referencia:
-        'AUTOTECNICATV (2022). La potencia del motor transmitida a la rueda. [Archivo de video] Youtube.  ',
+        'AUTOTECNICATV (2022). La potencia del motor transmitida a la rueda. [Archivo de video] Youtube.',
       tipo: 'Video ',
       link:
         'https://www.youtube.com/watch?v=8BsU5ekiLP4&ab_channel=AUTOTECNICATV ',
@@ -104,7 +104,7 @@ export default {
     {
       tema: 'Semiejes de propulsión',
       referencia:
-        'AUTOTECNICATV (2023). Las diferencias entre tracción TRASERA vs. DELANTERA. [Archivo de video] Youtube.  ',
+        'AUTOTECNICATV (2023). Las diferencias entre tracción TRASERA vs. DELANTERA. [Archivo de video] Youtube.',
       tipo: 'Video ',
       link:
         'https://www.youtube.com/watch?v=jJoeQ32-EOQ&ab_channel=AUTOTECNICATV ',
@@ -112,14 +112,14 @@ export default {
     {
       tema: 'Sistemas de acoplamiento de tracción controlada en propulsor',
       referencia:
-        'Repman22. (2020)..Todo sobre Diferenciales 🚗Torsen vs LSD vs Comun vs XDS. [Archivo de video] Youtube.   ',
+        'Repman22. (2020).Todo sobre Diferenciales Torsen vs LSD vs Comun vs XDS. [Archivo de video] Youtube.',
       tipo: 'Video ',
       link: 'https://www.youtube.com/watch?v=lJDYKrAlAk4&ab_channel=Repman22 ',
     },
     {
       tema: 'Tracción en eje delantero',
       referencia:
-        'AUTOTECNICATV (2022). Dilemas automovilísticos: ¿Tracción trasera o delantera?. [Archivo de video] Youtube.  ',
+        'AUTOTECNICATV (2022). Dilemas automovilísticos: ¿Tracción trasera o delantera?. [Archivo de video] Youtube.',
       tipo: 'Video ',
       link:
         'https://www.youtube.com/watch?v=oXU3mj5-j9U&ab_channel=AUTOTECNICATV ',
@@ -190,12 +190,12 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Líder del Ecosistema',
+          cargo: 'Líder del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro: 'Dirección General',
         },
       ],
@@ -211,7 +211,7 @@ export default {
         },
         {
           nombre: 'Paola Alexandra Moya',
-          cargo: 'Evaluadora Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
@@ -222,13 +222,13 @@ export default {
       autores: [
         {
           nombre: 'Andrés Felipe Herrera Roldán',
-          cargo: 'Diseñador de Contenidos Digitales',
+          cargo: 'Diseñador de contenidos digitales',
           centro:
             'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Leyson Fabian Castaño Perez',
-          cargo: 'Desarrollador Fullstack',
+          cargo: 'Desarrollador <i>Full stack</i>',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
@@ -239,25 +239,25 @@ export default {
       autores: [
         {
           nombre: 'Aixa Natalia Sendoya Fernández',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Jaime Hernán Tejada Llano',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Raúl Mosquera Serrano',
-          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
